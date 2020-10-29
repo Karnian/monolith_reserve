@@ -30,7 +30,7 @@
 ![req-res_2_처리 controller](https://user-images.githubusercontent.com/73535272/97381905-6a159280-190d-11eb-88b8-c2212245e8c4.JPG)
 
 - 동기방식
-![req-res_1_동기방식](https://user-images.githubusercontent.com/28075892/97530010-84766b80-19f4-11eb-9b21-c07e77299b8c.png)
+![req-res_1_동기방식](https://user-images.githubusercontent.com/28075892/97530112-bd164500-19f4-11eb-848c-4e1ae83c2f2d.png)
 ![req-res_2_동기방식_URL](https://user-images.githubusercontent.com/28075892/97528750-cc47c380-19f1-11eb-8e2e-b59e83935bc6.png)
 
 ### Gateway

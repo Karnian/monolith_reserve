@@ -2,14 +2,21 @@
 
 ## Check Points
 
-### Saga
-
 ### CQRS
 ![cqrs_관련 정보 조회](https://user-images.githubusercontent.com/73535272/97519032-d65ec780-19db-11eb-918e-75a017d1d836.JPG)
+
+### Polyglot
+* pom.xml 설정<br>
+![polyglot_](https://user-images.githubusercontent.com/73535272/97516628-df996580-19d6-11eb-8154-5bd7d55ec697.png)
 
 ### Correlation
 
 ### Req / Resp
+1. Req-Res 호출<br>
+![req-res_1_호출 소스](https://user-images.githubusercontent.com/73535272/97381900-64b84800-190d-11eb-991e-c18770bd9f04.JPG)
+
+2. Req-Res 처리<br>
+![req-res_2_처리 controller](https://user-images.githubusercontent.com/73535272/97381905-6a159280-190d-11eb-88b8-c2212245e8c4.JPG)
 
 ### Gateway
 1. Gateway 설정<br>
@@ -27,7 +34,7 @@
 ### Deploy/pipeline
 
 ### Curcuit Breaker
-
+* reserve 서비스로 과다한 이벤트가 발생 시 해당 서비스와 연결된 다른 서비스들에 영향을 주지 않도록 curcuit breaker 가 동작하게 구현 할 예정.
 ### HPA
 1. HPA 설정
 #kubectl autoscale deploy rent --min=1 --max=10 --cpu-percent=15<br>
@@ -96,7 +103,4 @@ java단에 해당 config Map 적용<br>
 운영환경에서 실행확인<br>
 ![ConfigMap 실행 결과](https://user-images.githubusercontent.com/12227092/97437394-be009580-1966-11eb-9f8d-e5a07134a02e.JPG)
 
-### Polyglot
-* pom.xml 설정<br>
-![polyglot_](https://user-images.githubusercontent.com/73535272/97516628-df996580-19d6-11eb-8154-5bd7d55ec697.png)
 

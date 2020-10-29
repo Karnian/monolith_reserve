@@ -19,6 +19,9 @@
 - 동기방식
 ![req-res_1_동기방식](https://user-images.githubusercontent.com/28075892/97528291-b259b100-19f0-11eb-9924-d9dabc99478c.png)
 
+[req-res_2_동기방식_URL](https://user-images.githubusercontent.com/28075892/97528750-cc47c380-19f1-11eb-8e2e-b59e83935bc6.png)
+
+
 ### Gateway
 1. Gateway 설정<br>
 ![gateway-설정](https://user-images.githubusercontent.com/12227092/97509615-20d54980-19c6-11eb-85fe-59a6a256368c.JPG)
@@ -31,8 +34,6 @@
 
 4. Gateway 직접정보조회<br>
 ![Gateway_직접정보조회](https://user-images.githubusercontent.com/73535272/97379198-975f4200-1907-11eb-96f2-94b3a6e50938.JPG)
-
-### Deploy/pipeline
 
 ### Curcuit Breaker
 * reserve 서비스로 과다한 이벤트가 발생 시 해당 서비스와 연결된 다른 서비스들에 영향을 주지 않도록 curcuit breaker 가 동작하게 구현 할 예정.

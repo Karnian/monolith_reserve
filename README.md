@@ -16,6 +16,9 @@
 2. Req-Res 처리<br>
 ![req-res_2_처리 controller](https://user-images.githubusercontent.com/73535272/97381905-6a159280-190d-11eb-88b8-c2212245e8c4.JPG)
 
+- 동기방식
+![req-res_1_동기방식](https://user-images.githubusercontent.com/28075892/97528291-b259b100-19f0-11eb-9924-d9dabc99478c.png)
+
 ### Gateway
 1. Gateway 설정<br>
 ![gateway-설정](https://user-images.githubusercontent.com/12227092/97509615-20d54980-19c6-11eb-85fe-59a6a256368c.JPG)
@@ -73,7 +76,6 @@ rent의 POD가 10개까지 확장되어 생성됨을 확인
 #siege -c255 -t120S -r10 --content-type "application/json" 'http://rent:8080/rental POST {"bookId":"5", "qty":1}'
 ![readiness_2](https://user-images.githubusercontent.com/73535272/97518371-66037680-19da-11eb-9090-446a9996a27c.jpg)<br>
 성공률이 100%로 확인되어, 신규 이미지 배포 중 Request가 모두 처리되는 것을 확인
-
 
 3. 서비스에 seige로 부하를 주어 Availablity를 확인
 #siege -c255 -t120S -r10 --content-type "application/json" 'http://rent:8080/rental POST {"bookId":"5", "qty":1}'<br>

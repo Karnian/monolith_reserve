@@ -4,16 +4,19 @@
 
 ### CI/CD
 1. git 복사<br>
-![CI_1_git 복사](https://user-images.githubusercontent.com/73535272/97382363-9251c100-190e-11eb-8ba7-94c13f603093.JPG)
+![CI_1_git 복사](https://user-images.githubusercontent.com/28075892/97532364-855dcc00-19f9-11eb-9a81-a940030a373e.png)
 
 2. maven package <br>
-![CI_2_maven 패키지](https://user-images.githubusercontent.com/73535272/97382371-97af0b80-190e-11eb-90e3-29cd10060a38.JPG)
+![CI_2_maven 패키지](https://user-images.githubusercontent.com/28075892/97532405-9ad2f600-19f9-11eb-9a63-d4c55e76c026.png)
 
 3. image 생성<br>
-![CI_3_이미지 생성](https://user-images.githubusercontent.com/73535272/97382383-a1387380-190e-11eb-8b7b-67af74e02574.JPG)
+![CI_3_이미지 생성](https://user-images.githubusercontent.com/28075892/97532447-ba6a1e80-19f9-11eb-94cc-deafaadc60e8.png)
 
 4. pod deploy 생성<br>
-![CI_4_pod_deploy 생성](https://user-images.githubusercontent.com/73535272/97382403-abf30880-190e-11eb-9e01-169dfa630300.JPG)
+![CI_4_pod_deploy 생성](https://user-images.githubusercontent.com/28075892/97532476-ceae1b80-19f9-11eb-846b-02774fb40fc7.png)
+
+* CD build fail
+![CD_fail](https://user-images.githubusercontent.com/28075892/97532516-e1285500-19f9-11eb-9d59-4c217d481794.png)
 
 ### CQRS
 ![cqrs_관련 정보 조회](https://user-images.githubusercontent.com/28075892/97527578-ffd51e80-19ee-11eb-87d4-e62b5b075676.png)

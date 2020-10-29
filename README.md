@@ -5,6 +5,7 @@
 ### Saga
 
 ### CQRS
+![cqrs_관련 정보 조회](https://user-images.githubusercontent.com/73535272/97519032-d65ec780-19db-11eb-918e-75a017d1d836.JPG)
 
 ### Correlation
 

@@ -2,6 +2,19 @@
 
 ## Check Points
 
+###CI/CD
+1. git 복사<br>
+![CI_1_git 복사](https://user-images.githubusercontent.com/73535272/97382363-9251c100-190e-11eb-8ba7-94c13f603093.JPG)
+
+2. maven package <br>
+![CI_2_maven 패키지](https://user-images.githubusercontent.com/73535272/97382371-97af0b80-190e-11eb-90e3-29cd10060a38.JPG)
+
+3. image 생성<br>
+![CI_3_이미지 생성](https://user-images.githubusercontent.com/73535272/97382383-a1387380-190e-11eb-8b7b-67af74e02574.JPG)
+
+4. pod deploy 생성<br>
+![CI_4_pod_deploy 생성](https://user-images.githubusercontent.com/73535272/97382403-abf30880-190e-11eb-9e01-169dfa630300.JPG)
+
 ### CQRS
 ![cqrs_관련 정보 조회](https://user-images.githubusercontent.com/28075892/97527578-ffd51e80-19ee-11eb-87d4-e62b5b075676.png)
 
@@ -21,7 +34,6 @@
 
 ![req-res_2_동기방식_URL](https://user-images.githubusercontent.com/28075892/97528750-cc47c380-19f1-11eb-8e2e-b59e83935bc6.png)
 
-
 ### Gateway
 1. Gateway 설정<br>
 ![gateway-설정](https://user-images.githubusercontent.com/12227092/97509615-20d54980-19c6-11eb-85fe-59a6a256368c.JPG)
@@ -37,6 +49,7 @@
 
 ### Curcuit Breaker
 * reserve 서비스로 과다한 이벤트가 발생 시 해당 서비스와 연결된 다른 서비스들에 영향을 주지 않도록 curcuit breaker 가 동작하게 구현 할 예정.
+
 ### HPA
 1. HPA 설정
 #kubectl autoscale deploy rent --min=1 --max=10 --cpu-percent=15<br>

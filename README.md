@@ -9,8 +9,6 @@
 * pom.xml 설정<br>
 ![polyglot_](https://user-images.githubusercontent.com/73535272/97516628-df996580-19d6-11eb-8154-5bd7d55ec697.png)
 
-### Correlation
-
 ### Req / Resp
 1. Req-Res 호출<br>
 ![req-res_1_호출 소스](https://user-images.githubusercontent.com/73535272/97381900-64b84800-190d-11eb-991e-c18770bd9f04.JPG)

@@ -3,7 +3,7 @@
 ## Check Points
 
 ### CQRS
-![cqrs_관련 정보 조회]!(https://user-images.githubusercontent.com/28075892/97527578-ffd51e80-19ee-11eb-87d4-e62b5b075676.png)
+![cqrs_관련 정보 조회](https://user-images.githubusercontent.com/28075892/97527578-ffd51e80-19ee-11eb-87d4-e62b5b075676.png)
 
 ### Polyglot
 * pom.xml 설정<br>

@@ -2,7 +2,7 @@
 
 ## Check Points
 
-###CI/CD
+### CI/CD
 1. git 복사<br>
 ![CI_1_git 복사](https://user-images.githubusercontent.com/73535272/97382363-9251c100-190e-11eb-8ba7-94c13f603093.JPG)
 

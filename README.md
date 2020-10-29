@@ -19,7 +19,7 @@
 - 동기방식
 ![req-res_1_동기방식](https://user-images.githubusercontent.com/28075892/97528291-b259b100-19f0-11eb-9924-d9dabc99478c.png)
 
-[req-res_2_동기방식_URL](https://user-images.githubusercontent.com/28075892/97528750-cc47c380-19f1-11eb-8e2e-b59e83935bc6.png)
+![req-res_2_동기방식_URL](https://user-images.githubusercontent.com/28075892/97528750-cc47c380-19f1-11eb-8e2e-b59e83935bc6.png)
 
 
 ### Gateway
